@@ -16,6 +16,6 @@ Below are all the contents in my profile, projects, and contributions. I love le
 
 ## 🛠️ Small Projects
 These are the small projects I have made to learn Python.
-### 🧮 MeowCalculator https://github.com/ballanigue/MeowCalculator
+### 🧮 MeowCalculator [https://github.com/ballanigue/MeowCalculator](https://github.com/ballanigue/MeowCalculator.git)
 - Built a functional calculator using Python
 - Code includes functions, loops, and user input.
