@@ -14,8 +14,25 @@ Below are all the contents in my profile, projects, and contributions. I love le
 - Created a Monitoring Board Application in MIT App Inventor
 - Made small apps such as BMI Calculator, EMS Portal, etc... 
 
-## 🛠️ Small Projects
-These are the small projects I have made to learn Python.
+## 📚 Academic & Foundation Projects
+These are my collection of programs I have made for my electives. This also features small projects and programs I have made.
+### 🏛️ [Foundational-Exercises](https://github.com/ballanigue/Foundational-Exercises.git)
+- A list of codes and programs during my elective
+- Includes programs and small exercises for coding
 ### 🐾 [MeowCalculator](https://github.com/ballanigue/MeowCalculator.git)
 - Built a functional calculator using Python
-- Code includes functions, loops, and user input.
+- Code includes functions, loops, and user input
+
+## 🎓 Education
+### National University Laguna
+Incoming Freshman - Bachelor of Science in Information Technology
+* **Expected Timeline:** 2026 - 2030
+
+### Miriam College Nuvali
+Graduated in Senior High School - STEM
+* **Timeline:** 2024 - 2026
+* **Highlights:** Completed a specialized Programming Elective.
+
+### Mt. Moriah Christian Academy
+Graduated in Junior High School
+* **Timeline:** 2020 - 2024
