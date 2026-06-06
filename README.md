@@ -19,6 +19,9 @@ These are my collection of programs I have made for my electives. This also feat
 ### 🏛️ [Foundational-Exercises](https://github.com/ballanigue/Foundational-Exercises.git)
 - A list of codes and programs during my elective
 - Includes programs and small exercises for coding
+### [⌨️ HTML-Code](https://github.com/ballanigue/HTML-Code/tree/main)
+- List of HTML codes I learned from sololearn, mostly about HTML
+- Has small projects that also included JS and CSS.
 ### 🐾 [MeowCalculator](https://github.com/ballanigue/MeowCalculator.git)
 - Built a functional calculator using Python
 - Code includes functions, loops, and user input
